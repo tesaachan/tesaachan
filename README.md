@@ -1,4 +1,6 @@
-### Hi there 👋
+![welcome](welcome-v2.png)
+### Hi 👋, I'm Georgy
+
 
 <!--
 **tesaachan/tesaachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
