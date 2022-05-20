@@ -1,10 +1,10 @@
 ![welcome](welcome-v2.png)
 ### Hi 👋, I'm Georgy
 
-BSc student at NUST MISIS. a major in 'Computer Science and Engineering'.<br/>
+BSc student at NUST MISIS, a major in 'Computer Science and Engineering'.<br/>
 Additionally Ecole 42 student.<br/>
-- 🔭 I’m currently working on `Philosophers` at Ecole 42
-- 🌱 I’m currently learning: `FP with Scala`, `Systems Programming`
+- 🔭 I’m currently working on `Philosophers` at Ecole 42, `lisp interpreter`
+- 🌱 I’m currently learning: `FP with Scala`, `Parallelism`
 - 📫 Contact me on Telegram: @tesaachan
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
