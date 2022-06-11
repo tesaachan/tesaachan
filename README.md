@@ -1,4 +1,4 @@
-![welcome](welcome-v2.png)
+![welcome](SUV4.gif)
 ### Hi 👋, I'm Georgy
 
 BSc student at NUST MISIS, a major in 'Computer Science and Engineering'.<br/>
