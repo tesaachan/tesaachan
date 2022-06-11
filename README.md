@@ -5,6 +5,7 @@ Currently, I'm getting a Bachelor's degree in Computer Science and Engineering a
 Additionally I study at Ecole 42.
 
 My interests: systems and functional programming
+
 📫 Contact me on Telegram: @tesaachan
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
