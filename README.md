@@ -1,8 +1,6 @@
 ![welcome](SUV4.gif)
 ### Hi 👋, I'm Georgiy
 
-Currently, I'm getting a Bachelor's degree in Computer Science at NUST MISIS, Moscow.
-
 My interests: systems and functional programming
 
 📫 Contact me on Telegram: @tesaachan
