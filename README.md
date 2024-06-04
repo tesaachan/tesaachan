@@ -1,8 +1,6 @@
 ![welcome](SUV4.gif)
 ### Hi 👋, I'm Georgiy
 
-My interests: systems and functional programming
-
 📫 Contact me on Telegram: @tesaachan
 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
